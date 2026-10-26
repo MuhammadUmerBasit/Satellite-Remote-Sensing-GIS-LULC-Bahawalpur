@@ -4,7 +4,7 @@ SATELLITE REMOTE SENSING & GIS LAND USE / LAND COVER (LULC) QUANTITATIVE ANALYSI
 Study Area: Bahawalpur District, Punjab, Pakistan
 Satellite Platform: USGS Landsat 5 Thematic Mapper (TM) | Resolution: 30m x 30m
 Software Framework: ERDAS IMAGINE 2015 & ESRI ArcGIS 10.5
-Author: Muhammad Umer Basit (Regn No: 259084, Section C)
+Author: Muhammad Umer Basit (Civil Engineering Student)
 Civil & Environmental Engineering (NICE - NUST)
 ========================================================================================
 """

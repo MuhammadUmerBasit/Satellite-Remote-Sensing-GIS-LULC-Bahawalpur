@@ -10,7 +10,7 @@
 
 A rigorous civil and environmental geospatial engineering portfolio demonstrating **multi-spectral satellite remote sensing**, **supervised Land Use / Land Cover (LULC) classification**, **radiometric/spatial image enhancement**, **accuracy assessment**, and **high-resolution vector GIS georeferencing & digitization**.
 
-**Author:** **Muhammad Umer Basit** (Regn No: `259084`, Section C)  
+**Author:** **Muhammad Umer Basit** (Civil Engineering Student)  
 **Institution:** NUST Institute of Civil Engineering (NICE), National University of Sciences and Technology (NUST), Islamabad, Pakistan.
 
 ---
@@ -190,9 +190,9 @@ Satellite-Remote-Sensing-GIS-LULC-Bahawalpur/
 │   └── Polygon.shp / dbf / prj / shx / sbn / sbx / cpg   # Parcel & boundary polygon features
 │
 ├── reports-and-documentation/                            # Original technical lab reports & submissions
-│   ├── Muhammad_Umer_Basit_259084_GIS_Lab_Assignment_Supervised_Classification.docx
-│   ├── MUHAMMAD_UMER_BASIT_259084_LAB_TASK_IMAGE_ENHANCEMENT.pdf
-│   ├── Muhammad_Umer_Basit_259084_Section_C_Lab_Tasks.pdf
+│   ├── Muhammad_Umer_Basit_GIS_Lab_Assignment_Supervised_Classification.docx
+│   ├── Muhammad_Umer_Basit_Lab_Task_Image_Enhancement.pdf
+│   ├── Muhammad_Umer_Basit_Lab_Tasks_Section_C.pdf
 │   ├── Muhammad_Umer_Basit_Lab_03_Layer_Stacking_and_LUT.docx
 │   ├── Muhammad_Umer_Basit_Lab_04_AOI_Clipping_and_Subsetting.docx
 │   ├── Muhammad_Umer_Basit_Georeferencing_and_Digitization_Lab_Exam.docx
@@ -242,8 +242,7 @@ python scripts/lulc_accuracy_and_area_analysis.py
 
 ## 👨‍💻 Author & Academic Attribution
 
-**Muhammad Umer Basit**  
-- **Registration Number:** `259084` (Section C)
+**Muhammad Umer Basit** (Civil Engineering Student)  
 - **Department:** NUST Institute of Civil Engineering (NICE)  
 - **Institution:** National University of Sciences and Technology (NUST), Islamabad, Pakistan  
 - **Course:** Geographic Information Systems (GIS) & Remote Sensing (Semester 8, Final Year)  
