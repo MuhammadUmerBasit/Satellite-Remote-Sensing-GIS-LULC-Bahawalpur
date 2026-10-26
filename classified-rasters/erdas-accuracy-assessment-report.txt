@@ -1,0 +1,219 @@
+		CLASSIFICATION ACCURACY ASSESSMENT REPORT
+		-----------------------------------------
+Image File : c:/users/nice/desktop/classification/supervised classification file nnneww.img
+User Name  : NICE
+Date       : Mon May 30 16:53:30 2022
+
+
+
+ERROR MATRIX
+-------------
+
+				Reference Data
+				--------------
+Classified Data	Unclassifi	Merged Bui	          	          	
+---------------	----------	----------	----------	----------	
+   Unclassified	         0	         0	         0	         0	
+Merged Builtup 	         0	         7	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+Merged Vegetati	         0	         1	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+Merged Barren A	         0	         1	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+   Merged Water	         0	         0	         0	         0	
+
+Column Total	         0	         9	         0	         0	
+
+				Reference Data
+				--------------
+Classified Data	          	Merged Veg	          	          	
+---------------	----------	----------	----------	----------	
+   Unclassified	         0	         0	         0	         0	
+Merged Builtup 	         0	         1	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+Merged Vegetati	         0	        57	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+Merged Barren A	         0	        11	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+   Merged Water	         0	         0	         0	         0	
+
+Column Total	         0	        69	         0	         0	
+
+				Reference Data
+				--------------
+Classified Data	          	          	          	          	
+---------------	----------	----------	----------	----------	
+   Unclassified	         0	         0	         0	         0	
+Merged Builtup 	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+Merged Vegetati	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+Merged Barren A	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+   Merged Water	         0	         0	         0	         0	
+
+Column Total	         0	         0	         0	         0	
+
+				Reference Data
+				--------------
+Classified Data	          	          	Merged Bar	          	
+---------------	----------	----------	----------	----------	
+   Unclassified	         0	         0	         0	         0	
+Merged Builtup 	         0	         0	         1	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+Merged Vegetati	         0	         0	         2	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+Merged Barren A	         2	         0	        29	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+   Merged Water	         0	         0	         0	         0	
+
+Column Total	         2	         0	        32	         0	
+
+				Reference Data
+				--------------
+Classified Data	          	          	          	Merged Wat	
+---------------	----------	----------	----------	----------	
+   Unclassified	         0	         0	         0	         0	
+Merged Builtup 	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+Merged Vegetati	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+Merged Barren A	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+               	         0	         0	         0	         0	
+   Merged Water	         0	         0	         0	         0	
+
+Column Total	         0	         0	         0	         0	
+
+
+		----- End of Error Matrix -----
+
+
+ACCURACY TOTALS
+----------------
+
+          Class	 Reference	Classified	Number	Producers	Users
+           Name	    Totals	    Totals	Correct	 Accuracy	Accuracy
+     ----------	----------	----------	-------	---------	-----
+   Unclassified	         0	         0	     0	      ---	  ---
+Merged Builtup 	         9	         9	     7	    77.78%	 77.78%
+               	         0	         0	     0	      ---	  ---
+               	         0	         0	     0	      ---	  ---
+               	         0	         0	     0	      ---	  ---
+Merged Vegetati	        69	        60	    57	    82.61%	 95.00%
+               	         0	         0	     0	      ---	  ---
+               	         0	         0	     0	      ---	  ---
+               	         0	         0	     0	      ---	  ---
+               	         0	         0	     0	      ---	  ---
+               	         0	         0	     0	      ---	  ---
+               	         0	         0	     0	      ---	  ---
+               	         2	         0	     0	      ---	  ---
+               	         0	         0	     0	      ---	  ---
+Merged Barren A	        32	        43	    29	    90.63%	 67.44%
+               	         0	         0	     0	      ---	  ---
+               	         0	         0	     0	      ---	  ---
+               	         0	         0	     0	      ---	  ---
+               	         0	         0	     0	      ---	  ---
+   Merged Water	         0	         0	     0	      ---	  ---
+
+         Totals	       112	       112	    93
+
+Overall Classification Accuracy =     83.04%
+
+		----- End of Accuracy Totals -----
+
+
+
+KAPPA (K^) STATISTICS
+---------------------
+
+Overall Kappa Statistics = 0.6937
+
+Conditional Kappa for each Category.
+------------------------------------
+
+           Class Name	          Kappa
+           ----------	          -----
+         Unclassified	         0.0000
+  Merged Builtup Area	         0.7584
+                     	         0.0000
+                     	         0.0000
+                     	         0.0000
+    Merged Vegetation	         0.8698
+                     	         0.0000
+                     	         0.0000
+                     	         0.0000
+                     	         0.0000
+                     	         0.0000
+                     	         0.0000
+                     	         0.0000
+                     	         0.0000
+   Merged Barren Area	         0.5442
+                     	         0.0000
+                     	         0.0000
+                     	         0.0000
+                     	         0.0000
+         Merged Water	         0.0000
+
+		----- End of Kappa Statistics -----
+
+                                                                                                                                                                                                                          
